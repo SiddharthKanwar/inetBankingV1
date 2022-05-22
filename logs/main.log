@@ -1,0 +1,16 @@
+2022-05-19 10:50:28,847 +0530 [main] INFO  (TC_LoginTest_001.java:15) - URL is opened
+2022-05-19 10:50:29,030 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Entered username
+2022-05-19 10:50:29,153 +0530 [main] INFO  (TC_LoginTest_001.java:23) - Entered password
+2022-05-19 10:50:33,596 +0530 [main] INFO  (TC_LoginTest_001.java:30) - Login test passed
+2022-05-19 12:18:50,284 +0530 [main] INFO  (TC_LoginTest_001.java:15) - URL is opened
+2022-05-19 12:18:50,397 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Entered username
+2022-05-19 12:18:50,480 +0530 [main] INFO  (TC_LoginTest_001.java:23) - Entered password
+2022-05-19 12:18:55,109 +0530 [main] INFO  (TC_LoginTest_001.java:30) - Login test passed
+2022-05-19 13:21:48,629 +0530 [main] INFO  (TC_LoginTest_001.java:15) - URL is opened
+2022-05-19 13:21:48,740 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Entered username
+2022-05-19 13:21:48,811 +0530 [main] INFO  (TC_LoginTest_001.java:23) - Entered password
+2022-05-19 13:21:52,273 +0530 [main] INFO  (TC_LoginTest_001.java:30) - Login test passed
+2022-05-19 13:26:17,659 +0530 [main] INFO  (TC_LoginTest_001.java:15) - URL is opened
+2022-05-19 13:26:17,756 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Entered username
+2022-05-19 13:26:17,813 +0530 [main] INFO  (TC_LoginTest_001.java:23) - Entered password
+2022-05-19 13:26:21,663 +0530 [main] INFO  (TC_LoginTest_001.java:30) - Login test passed
